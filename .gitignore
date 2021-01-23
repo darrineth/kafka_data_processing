@@ -154,3 +154,8 @@ dmypy.json
 .prof
 
 # End of https://www.toptal.com/developers/gitignore/api/jupyternotebooks,python
+notebooks/monitoring_data_pl_pm25
+notebooks/monitoring_data_pl_pm10
+notebooks/.bash_history
+notebooks/.ivy2
+notebooks/.local
